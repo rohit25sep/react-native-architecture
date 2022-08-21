@@ -1,0 +1,61 @@
+const itemsTintColor = [
+  {
+    tintColor: '#ED3B42',
+  },
+  {
+    tintColor: '#FF8E8E',
+  },
+  {
+    tintColor: '#ADACAC',
+  },
+  {
+    tintColor: '#6EBE45',
+  },
+  {
+    tintColor: '#18B335',
+  },
+];
+const colors = {
+  transparent: 'transparent',
+  clear: '#00000000',
+  white: '#ffffff',
+  black: '#000000',
+  blue: '#174878',
+  lokeshoreRed: '#EA2431',
+  navTrayBackground: '#F8F8F8',
+  shopGrey: '#F2F2F2',
+  borderColor: '#174878',
+  gray: '#78787A',
+  gold: '#F39502',
+  lightGrey: '#C3C3C3',
+  darkGray: '#4F4F51',
+  linearGradient1: '#00BCFF',
+  linearGradient2: '#007DAA',
+  linearGradient3: '#006F97',
+  lakeshoreBlue: '#007DAA',
+  tabBlue: '#00ADEF',
+  tabGrey: '#717171',
+  bottomTabGrey: '#181818',
+  tabBorder: '#ADACAC',
+  inputBorder: '#D8D8D8',
+  inputLabel: '#181818',
+  lightBackgroundGrey: '#F8F8F8',
+  borderGrey: '#F5F5F5',
+  transparentBlack: '#30303370',
+  bannerBlue: '#00ADEF',
+  contentBackground: '#D3DCE4',
+  borderShadow: 'rgba(0, 0, 0, 0.09)',
+  red: '#EA2431',
+  green: '#00A41F',
+  shadow: '#000',
+  accentsGreen: '#18B335',
+  shadow90: 'rgba(0, 0, 0, 0.09)',
+  orangeColor: '#F39502',
+  greenColor: 'green',
+  redColor: 'red',
+  eyebrowYellow: '#FFC700',
+  ratingBackgroundColor: '#D8D8D8',
+  itemsTintColor,
+};
+
+export default colors;
