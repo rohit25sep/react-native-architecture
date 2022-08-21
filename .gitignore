@@ -85,6 +85,10 @@ dist
 # Lock file 
 package-lock.json
 yarn.lock
+ios/Podfile.lock
+
+# iOS Pods
+ios/Pods
 
 # Gatsby files
 .cache/
